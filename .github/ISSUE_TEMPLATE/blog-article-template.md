@@ -9,4 +9,4 @@ assignees: ''
 
 | ID | ArticleLink |
 | --- | --- |
-|      |   https://blog.spiritling.cn/articles/temp/    |
+|      |   https://blog.spiritling.cn/articles/temp   |
