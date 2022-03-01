@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-| ID | ArticleLink |
+| ID | ArticleLink | English |
 | --- | --- |
-|      |   https://blog.spiritling.cn/articles/temp   |
+|      |   https://blog.spiritling.cn/articles/temp   |  |
